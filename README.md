@@ -14,6 +14,16 @@ Documento de atividade de desenvolvimento para uma aplicação simples de clíni
 
 ---
 
+## Estrutura inicial de pastas e arquivos
+```
+api/
+  src/
+web/
+  src/
+mobile/
+  src/
+```
+
 ## 1) API (Node.js + Express + Prisma)
 
 ### Linguagens
